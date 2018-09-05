@@ -1,0 +1,91 @@
+/*!
+ * 
+ * [Dojo](https://dojo.io/)
+ * Copyright [JS Foundation](https://js.foundation/) & contributors
+ * [New BSD license](https://github.com/dojo/meta/blob/master/LICENSE)
+ * All rights reserved
+ * 
+ */
+:root {
+
+	/* Z-index levels */
+}
+
+._1Xn7GZjl {}
+
+._79gMw0vX {}
+
+._1HXQXand {}
+
+._3TeO85nD {}
+
+._2a_lwZi8 {}
+
+._3gv9ptxH {}
+
+._2Qy2nYta {}
+
+._29UpR7Gd {}
+
+._2a_lwZi8::after {
+	content: '*';
+	color: red;
+}
+._1AeWeApr {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+	white-space: nowrap;
+}
+
+/* Allows visually hidden, focusable content to become visible when navigated to via keyboard */
+
+._1AeWeApr._1_qANqXi:active,
+._1AeWeApr._1_qANqXi:focus {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	width: auto;
+	white-space: inherit;
+}
+
+/* If you're using .hidden, you probably mean it. */
+
+._3QddUiBU {
+	display: none !important;
+}
+:root {
+
+	/* Z-index levels */
+}
+
+._11VimoPG {}
+
+._1NgZUEE4 {}
+
+.TxI_qeto {}
+
+.xKv_GKpT {}
+
+._1_cNY7E8 {}
+
+._39faZFMX {}
+
+._1sSaabHo {}
+
+._3ty-BRNM ._11VimoPG {
+	border-color: red;
+}
+
+._3A71sBn4 ._11VimoPG {
+	border-color: green;
+}
+
+/*# sourceMappingURL=text-input-3.0.0.css.map*/

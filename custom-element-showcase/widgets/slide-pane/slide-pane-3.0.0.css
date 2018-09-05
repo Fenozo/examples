@@ -1,0 +1,367 @@
+/*!
+ * 
+ * [Dojo](https://dojo.io/)
+ * Copyright [JS Foundation](https://js.foundation/) & contributors
+ * [New BSD license](https://github.com/dojo/meta/blob/master/LICENSE)
+ * All rights reserved
+ * 
+ */
+:root {
+
+	/* Z-index levels */
+}
+
+@-webkit-keyframes _1GpxvABe {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+@keyframes _1GpxvABe {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+._1GpxvABe {
+	-webkit-animation-duration: .2s;
+	        animation-duration: .2s;
+	-webkit-animation-fill-mode: both;
+	        animation-fill-mode: both;
+	-webkit-animation-name: _1GpxvABe;
+	        animation-name: _1GpxvABe;
+}
+
+@-webkit-keyframes ClAlvWcr {
+	from {
+		opacity: 1;
+	}
+	to {
+		opacity: 0;
+	}
+}
+
+@keyframes ClAlvWcr {
+	from {
+		opacity: 1;
+	}
+	to {
+		opacity: 0;
+	}
+}
+
+.ClAlvWcr {
+	-webkit-animation-duration: .2s;
+	        animation-duration: .2s;
+	-webkit-animation-fill-mode: both;
+	        animation-fill-mode: both;
+	-webkit-animation-name: ClAlvWcr;
+	        animation-name: ClAlvWcr;
+}
+@font-face {
+	font-family: 'dojo2';
+	src:
+	url(1jRzby-N.ttf) format('truetype'),
+	url(6KF-s-BX.woff) format('woff'),
+	url(1LTNJcFj.svg#dojo2) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+._2L6Ls-Zy {}
+
+._3tF1vZM- {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'dojo2' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	-webkit-font-feature-settings: normal;
+	        font-feature-settings: normal;
+	font-variant: normal;
+	text-transform: none;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+._3GFyIk3G:before {
+	content: "\F078";
+}
+
+._1db8DKc8:before {
+	content: "\F053";
+}
+
+._2a143YET:before {
+	content: "\F054";
+}
+
+.w1WZiet2:before {
+	content: "\F00D";
+}
+
+._2V_909OC:before {
+	content: "\F067";
+}
+
+._27KOe4gH:before {
+	content: "\F068";
+}
+
+.mKil4MCX:before {
+	content: "\F00C";
+}
+
+.Rw4TXrdb:before {
+	content: "\F077";
+}
+
+.b2BPqdCO:before {
+	content: "\F0D8";
+}
+
+._3QpkEw-I:before {
+	content: "\F0D7";
+}
+
+._3MWqsC_b:before {
+	content: "\F002";
+}
+
+._3uXWm-H6:before {
+	content: "\F0C9";
+}
+
+._3V--OLwl:before {
+	content: "\F013";
+}
+
+._3YjJOXWh:before {
+	content: "\F06A";
+}
+
+._3mL91Z0s:before {
+	content: "\F059";
+}
+
+.dZLeo6Sf:before {
+	content: "\F05A";
+}
+
+._1vzkNuNB:before {
+	content: "\F095";
+}
+
+._2y3IH3o2:before {
+	content: "\F040";
+}
+
+._1_x6RqtA:before {
+	content: "\F133";
+}
+
+.HkV2v3yK:before {
+	content: "\F127";
+}
+
+._24-7y_Lz:before {
+	content: "\F041";
+}
+
+._2cTDxmou:before {
+	content: "\F023";
+}
+
+._12PMYHnq:before {
+	content: "\F0E0";
+}
+._1AeWeApr {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+	white-space: nowrap;
+}
+
+/* Allows visually hidden, focusable content to become visible when navigated to via keyboard */
+
+._1AeWeApr._1_qANqXi:active,
+._1AeWeApr._1_qANqXi:focus {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	width: auto;
+	white-space: inherit;
+}
+
+/* If you're using .hidden, you probably mean it. */
+
+._3QddUiBU {
+	display: none !important;
+}
+.ZJyi9mWa {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.geLsDLAm {
+	position: fixed;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+._2CBYuBsa,
+.LHBt3Aou {
+	height: 100%;
+	top: 0;
+}
+
+._1o1D2-gL,
+._2fS48yNu {
+	width: 100%;
+	left: 0;
+}
+
+._2CBYuBsa {
+	left: 0;
+	-webkit-transform: translateX(-100%);
+	        transform: translateX(-100%)
+}
+
+.LHBt3Aou {
+	right: 0;
+	-webkit-transform: translateX(100%);
+	        transform: translateX(100%);
+}
+
+._1o1D2-gL {
+	top: 0;
+	-webkit-transform: translateY(-100%);
+	        transform: translateY(-100%)
+}
+
+._2fS48yNu {
+	bottom: 0;
+	-webkit-transform: translateY(100%);
+	        transform: translateY(100%);
+}
+
+._2CBYuBsa._1Uk4GQZP {
+	-webkit-transform: translateX(-100%) !important;
+	        transform: translateX(-100%) !important;
+}
+
+.LHBt3Aou._1Uk4GQZP {
+	-webkit-transform: translateX(100%) !important;
+	        transform: translateX(100%) !important;
+}
+
+._1o1D2-gL._1Uk4GQZP {
+	-webkit-transform: translateY(-100%) !important;
+	        transform: translateY(-100%) !important;
+}
+
+._2fS48yNu._1Uk4GQZP {
+	-webkit-transform: translateY(100%) !important;
+	        transform: translateY(100%) !important;
+}
+
+._2CBYuBsa._3aYW-YFP {
+	-webkit-transform: translateX(0%) !important;
+	        transform: translateX(0%) !important;
+}
+
+.LHBt3Aou._3aYW-YFP {
+	-webkit-transform: translateX(0%) !important;
+	        transform: translateX(0%) !important;
+}
+
+._1o1D2-gL._3aYW-YFP {
+	-webkit-transform: translateY(0%) !important;
+	        transform: translateY(0%) !important;
+}
+
+._2fS48yNu._3aYW-YFP {
+	-webkit-transform: translateY(0%) !important;
+	        transform: translateY(0%) !important;
+}
+
+._1UDNk_HU {
+	-webkit-transform: translateX(0%);
+	        transform: translateX(0%);
+}
+:root {
+
+	/* Z-index levels */
+}
+
+._27hIyl5Q {}
+
+._1Y0qXx1t,
+._3UjBe_qo {
+	-webkit-transition: -webkit-transform ease-in-out .2s;
+	transition: -webkit-transform ease-in-out .2s;
+	transition: transform ease-in-out .2s;
+	transition: transform ease-in-out .2s, -webkit-transform ease-in-out .2s;
+}
+
+._1wKNZcBn {
+	background: rgba(66, 66, 66, 0.30000000000000004);
+	z-index: 400;
+}
+
+._3V_bfHIT { }
+
+._1nADkSkW { }
+
+._3W7iyFHd {
+	background-color: #fff;
+	z-index: 401;
+}
+
+.WbrkIbTU {
+	position: relative;
+}
+
+.onY8sM7Z {
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	        transform: translateY(-50%);
+	right: 35px;
+	cursor: pointer;
+	font-size: 0;
+	border: none;
+	background: none;
+}
+
+.onY8sM7Z i {
+	font-size: 14px;
+}
+
+._YGKPjx4 { }
+
+.Mh9mwWT3 { }
+
+._33dC6Hy_ { }
+
+._3gP6oSQg { }
+
+/*# sourceMappingURL=slide-pane-3.0.0.css.map*/

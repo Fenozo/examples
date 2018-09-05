@@ -1,0 +1,290 @@
+/*!
+ * 
+ * [Dojo](https://dojo.io/)
+ * Copyright [JS Foundation](https://js.foundation/) & contributors
+ * [New BSD license](https://github.com/dojo/meta/blob/master/LICENSE)
+ * All rights reserved
+ * 
+ */
+:root {
+
+	/* Z-index levels */
+}
+
+._1Xn7GZjl {}
+
+._79gMw0vX {}
+
+._1HXQXand {}
+
+._3TeO85nD {}
+
+._2a_lwZi8 {}
+
+._3gv9ptxH {}
+
+._2Qy2nYta {}
+
+._29UpR7Gd {}
+
+._2a_lwZi8::after {
+	content: '*';
+	color: red;
+}
+._1AeWeApr {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+	white-space: nowrap;
+}
+
+/* Allows visually hidden, focusable content to become visible when navigated to via keyboard */
+
+._1AeWeApr._1_qANqXi:active,
+._1AeWeApr._1_qANqXi:focus {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	width: auto;
+	white-space: inherit;
+}
+
+/* If you're using .hidden, you probably mean it. */
+
+._3QddUiBU {
+	display: none !important;
+}
+:root {
+
+	/* Z-index levels */
+}
+
+._2Il2tPLe {
+	display: block;
+}
+
+._1jutPfif {
+	position: relative;
+}
+
+._1MyjV5_F {
+	bottom: 0;
+	content: "";
+	left: 0;
+	position: absolute;
+	top: 0;
+}
+
+._3pPQuSpx {
+	position: relative;
+	width: 100%;
+}
+
+.k3G_rSOO {
+	position: absolute;
+}
+
+/* Make native input invisible */
+
+._2s0Axahi {
+	-webkit-appearance: none;
+	   -moz-appearance: none;
+	        appearance: none;
+	background: transparent;
+	border: 0 none;
+	color: transparent;
+	font-size: inherit;
+	left: 0;
+	margin: 0px;
+	overflow: visible;
+	padding: 0px;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+/* invisible native track */
+
+._2s0Axahi::-ms-track {
+	appearance: none;
+	background: transparent;
+	border: 0 none;
+	color: transparent;
+	height: 100%;
+	margin: 0px;
+	overflow: visible;
+	padding: 0px;
+	width: 100%;
+}
+
+._2s0Axahi::-moz-range-track {
+	-moz-appearance: none;
+	     appearance: none;
+	background: transparent;
+	border: 0 none;
+	color: transparent;
+	height: 100%;
+	margin: 0px;
+	overflow: visible;
+	padding: 0px;
+	width: 100%;
+}
+
+._2s0Axahi:focus::-webkit-slider-runnable-track {
+	background: transparent;
+	border: transparent;
+}
+
+/* thumb needs to be invisible and same size as custom thumb */
+
+._2s0Axahi::-ms-thumb {
+	border-radius: 50%;
+	border: 0 none;
+	background: transparent;
+	cursor: pointer;
+}
+
+._2s0Axahi::-moz-range-thumb {
+	border-radius: 50%;
+	border: 0 none;
+	background: transparent;
+	cursor: pointer;
+}
+
+._2s0Axahi::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	        appearance: none;
+	border-radius: 50%;
+	border: 0 none;
+	background: transparent;
+	cursor: pointer;
+}
+
+/* microsoft IE10+ and Edge - eliminates default fills before and after thumb */
+
+._2s0Axahi::-ms-fill-lower {
+	background: transparent;
+	border: 0 none;
+}
+
+._2s0Axahi::-ms-fill-upper {
+	background: transparent;
+	border: 0 none;
+}
+
+._2s0Axahi::-ms-tooltip {
+	display: none;
+}
+:root {
+
+	/* Z-index levels */
+}
+
+.N46gqrk0 { }
+
+.TcETX5TS {
+	left: 2.5em;
+	position: absolute;
+	top: 2.5em;
+}
+
+/* vertical slider */
+
+._31JV4nx0 ._3b4yxB7A,
+._31JV4nx0 ._1c4XRwH0 {
+	-webkit-transform-origin: 0 0;
+	        transform-origin: 0 0;
+	-webkit-transform: rotate(-90deg) translate(-100%, 0);
+	        transform: rotate(-90deg) translate(-100%, 0);
+}
+
+/* disabled and readonly styles */
+
+._23uNmbH1 ._1c4XRwH0,
+._3tZxVK0T ._1c4XRwH0 {
+	background-color: #bbb;
+}
+
+/* required style, only applies to inputs with a label */
+
+._18XXqTIh span::after {
+	content: '*';
+	color: red;
+}
+
+/* invalid style */
+
+._2Dd1H-Q1 ._1c4XRwH0 {
+	border-color: red;
+}
+
+._2Dd1H-Q1 ._3puiWsuE::before {
+	background-color: red;
+}
+
+/* valid style */
+
+._3jKYxXAd ._2XyZkg_I::before {
+	border-color: green;
+}
+
+._3jKYxXAd ._2XyZkg_I::after {
+	background-color: green;
+}
+
+._3mu14dHS { }
+
+._2XyZkg_I {
+
+}
+
+._1c4XRwH0 {
+	background-color: #fff;
+	border: 1px solid #424242;
+	height: 0.75em;
+}
+
+.juyYC47L {
+	background-color: #34495e;
+}
+
+._3b4yxB7A {
+	height: 0.75em;
+}
+
+._3b4yxB7A::-ms-thumb {
+	height: 2em;
+	width: 2em;
+}
+
+._3b4yxB7A::-moz-range-thumb {
+	height: 2em;
+	width: 2em;
+}
+
+._3b4yxB7A::-webkit-slider-thumb {
+	height: 2em;
+	width: 2em;
+}
+
+._3puiWsuE {
+	background-color: #fff;
+	border: 1px solid #424242;
+	height: 2em;
+	left: 50%;
+	margin-left: -1em;
+	top: -0.625em;
+	width: 2em;
+}
+
+._2EoIZn7U { }
+
+/*# sourceMappingURL=slider-3.0.0.css.map*/

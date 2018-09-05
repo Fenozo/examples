@@ -1,0 +1,159 @@
+/*!
+ * 
+ * [Dojo](https://dojo.io/)
+ * Copyright [JS Foundation](https://js.foundation/) & contributors
+ * [New BSD license](https://github.com/dojo/meta/blob/master/LICENSE)
+ * All rights reserved
+ * 
+ */
+@font-face {
+	font-family: 'dojo2';
+	src:
+	url(1jRzby-N.ttf) format('truetype'),
+	url(6KF-s-BX.woff) format('woff'),
+	url(1LTNJcFj.svg#dojo2) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+._2L6Ls-Zy {}
+
+._3tF1vZM- {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'dojo2' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	-webkit-font-feature-settings: normal;
+	        font-feature-settings: normal;
+	font-variant: normal;
+	text-transform: none;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+._3GFyIk3G:before {
+	content: "\F078";
+}
+
+._1db8DKc8:before {
+	content: "\F053";
+}
+
+._2a143YET:before {
+	content: "\F054";
+}
+
+.w1WZiet2:before {
+	content: "\F00D";
+}
+
+._2V_909OC:before {
+	content: "\F067";
+}
+
+._27KOe4gH:before {
+	content: "\F068";
+}
+
+.mKil4MCX:before {
+	content: "\F00C";
+}
+
+.Rw4TXrdb:before {
+	content: "\F077";
+}
+
+.b2BPqdCO:before {
+	content: "\F0D8";
+}
+
+._3QpkEw-I:before {
+	content: "\F0D7";
+}
+
+._3MWqsC_b:before {
+	content: "\F002";
+}
+
+._3uXWm-H6:before {
+	content: "\F0C9";
+}
+
+._3V--OLwl:before {
+	content: "\F013";
+}
+
+._3YjJOXWh:before {
+	content: "\F06A";
+}
+
+._3mL91Z0s:before {
+	content: "\F059";
+}
+
+.dZLeo6Sf:before {
+	content: "\F05A";
+}
+
+._1vzkNuNB:before {
+	content: "\F095";
+}
+
+._2y3IH3o2:before {
+	content: "\F040";
+}
+
+._1_x6RqtA:before {
+	content: "\F133";
+}
+
+.HkV2v3yK:before {
+	content: "\F127";
+}
+
+._24-7y_Lz:before {
+	content: "\F041";
+}
+
+._2cTDxmou:before {
+	content: "\F023";
+}
+
+._12PMYHnq:before {
+	content: "\F0E0";
+}
+._1AeWeApr {
+	border: 0;
+	clip: rect(0 0 0 0);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+	white-space: nowrap;
+}
+
+/* Allows visually hidden, focusable content to become visible when navigated to via keyboard */
+
+._1AeWeApr._1_qANqXi:active,
+._1AeWeApr._1_qANqXi:focus {
+	clip: auto;
+	height: auto;
+	margin: 0;
+	overflow: visible;
+	position: static;
+	width: auto;
+	white-space: inherit;
+}
+
+/* If you're using .hidden, you probably mean it. */
+
+._3QddUiBU {
+	display: none !important;
+}
+
+/*# sourceMappingURL=icon-3.0.0.css.map*/
